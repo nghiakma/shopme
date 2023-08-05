@@ -1,7 +1,7 @@
 server:
   port: 80
- # servlet:
-  #  context-path: /Shopme
+  servlet:
+    context-path: /Shopme
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver

@@ -9,6 +9,7 @@ All images are stored in Amazon S3 Bucket
 Admin part handle with implementing the process of CRUD for category, product and monitor the past orders with respect its role covering Admin, Editor, Saleperson, Shipper and Assistant
 Admin part is based i18n for Turkish and English
 Customer register the system and login it. Next, s/he makes an order and apply payment and show previous orders
+
 🔨 Run the App
 Maven
 1 ) Download your project from this link https://github.com/Rapter1990/Shopme
